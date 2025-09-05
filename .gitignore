@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+*.xcuserdatad
+*.xcscmblueprint
+*.xccheckout
+# Swift Package Manager
+.build/
+# CocoaPods
+Pods/
+*.xcworkspace
+# Carthage
+Carthage/Build/
+# User settings
+*.swp
+.DS_Store
